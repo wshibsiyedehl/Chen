@@ -84,7 +84,7 @@ _G.Chen=true
 
 end
 
-if _G.Seven==true then
+if _G.Chen==true then
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/wshibsiyedehl/scripts/main/%E9%99%88%E6%83%85%E4%BB%A4/%E8%84%9A%E6%9C%AC"))()
 
