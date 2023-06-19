@@ -1,0 +1,99 @@
+OrionLib:MakeNotification({
+
+	Name = "欢迎使用陈脚本",	Content =  "游戏名为:" .. game.GameId .. ".",
+
+	Image = "rbxassetid://7734068321",
+
+	Time = 5
+
+})
+
+local a=tostring(game.Players.LocalPlayer.Character);
+
+elseif a=="baiyede"then
+
+_G.Chen=true
+
+elseif a=="Chinese1233211234567"then
+
+_G.Chen=true
+
+elseif a=="hggjjbbjjb"then
+
+_G.Chen=true
+
+elseif a=="ruin1145145"then
+
+_G.Chen=true
+
+elseif a=="1314kewszx"then
+
+_G.Chen=true
+
+elseif a=="qwert111treyheh"then
+
+_G.Chen=true
+
+elseif a=="CN_Dxter"then
+
+_G.Chen=true
+
+elseif a=="GuangmingRabbit"then
+
+_G.Chen=true
+
+elseif a=="xiaochenbz"then
+
+_G.Chen=true
+
+elseif a=="wpm_kwpd"then
+
+_G.Chen=true
+
+elseif a=="hhbhhhhhhhhhl"then
+
+_G.Chen=true
+
+elseif a=="cutcbk"then
+
+_G.Chen=true
+
+elseif a=="NPC_OBT"then
+
+_G.Chen=true
+
+elseif a=="eerrtt114514"then
+
+_G.Chen=true
+
+elseif a=="54188aaaaaaaaa"then
+
+_G.Chen=true
+
+elseif a=="yaqshjd"then
+
+_G.Chen=true
+
+elseif a=="E1113558874234"then
+
+_G.Chen=true
+
+elseif a=="dgwghdh"then
+
+_G.Chen=true
+
+end
+
+if _G.Seven==true then
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wshibsiyedehl/scripts/main/%E9%99%88%E6%83%85%E4%BB%A4/%E8%84%9A%E6%9C%AC"))()
+
+else
+
+setclipboard("Q群:170048648")
+
+ 
+
+game.Players.LocalPlayer:Kick(a.."你个人鸡没有被列入白名单，已复制群号")
+
+end
